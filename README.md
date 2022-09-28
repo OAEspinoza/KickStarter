@@ -19,7 +19,7 @@ This makes sense to me, as successful campaigns had a higher average goal than f
 
 <br>
 
-## Appendix
+# Appendix
 
 <br>
 
@@ -31,22 +31,22 @@ Figure 1. Count of campaigns by parent category and outcome.
 ![image](Generated_images/Pivot_2.png)
 Figure 2. Count of campaigns by sub-category and outcome.
 <br>
-
+<br>
 ![image](Generated_images/Pivot_3.png)
 Figure 3. Count of campaigns by month and status.
 <br>
-
+<br>
 ![image](Generated_images/Bonus1Table.png)
 Table 1. Bonus 1: Count of campaigns by goal and outcome.
 <br>
-
+<br>
 ![image](Generated_images/Bonus1Table.png)
 Figure 4. Bonus 1: Count of campaigns by goal and outcome.
 <br>
-
+<br>
 ![image](Generated_images/Bonus2Table.png)
 Table 2. Bonus 2: Descriptive statistics by outcome.
 <br>
-
+<br>
 ![image](Generated_images/Bonus2BoxPlot.png)
 Figure 5. Bonus 2: Box plot of counts by number of backers.
